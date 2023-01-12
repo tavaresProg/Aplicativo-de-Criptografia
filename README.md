@@ -11,7 +11,7 @@ App criado com objetivo de criptografar e descriptografar senhas. 👨‍💻
 
 ## ❔ Como usar:
 - Crie ou tenha uma senha em mãos para usar! 📜
-- Prescisa de ajuda? que tal usar meu gerador de senhas: 
+- Prescisa de ajuda? que tal usar meu gerador de senhas: https://github.com/tavaresProg/gerador-de-senhas-aleatorias
 - Clique em criptografar mensagem e veja a mágica! 🧙‍♂️
 - Você também pode descriptografar senhas (desde que elas foram geradas por este App)
 
@@ -21,5 +21,6 @@ e mudando o atributo *valor* (bem flexível!) 🤸
 
 
 ## 📸 Screenshots
-<img src="" alt="" width="50%">
-<img src="" alt="" width ="50%">
+<img src="https://github.com/tavaresProg/criptografador-de-senhas/blob/main/screenshot%201.png" alt="Home" width="50%">
+<img src="https://github.com/tavaresProg/criptografador-de-senhas/blob/main/screenshot%202.png" alt="Encrypt" width ="50%">
+<img src="https://github.com/tavaresProg/criptografador-de-senhas/blob/main/screenshot%203.png" alt="Desencrypt" width ="50%">
