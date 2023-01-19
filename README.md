@@ -4,20 +4,17 @@
 </div>
 
 ## Descrição
-App criado com objetivo de criptografar e descriptografar senhas. 👨‍💻
+App criado com objetivo de criptografar e descriptografar senhas.
 
 ##  Tecnologia utilizada
 - Java 18
 
-## Como usar:
-- Crie ou tenha uma senha em mãos para usar! 📜
-- Prescisa de ajuda? que tal usar meu gerador de senhas: https://github.com/tavaresProg/gerador-de-senhas-aleatorias
-- Clique em criptografar mensagem e veja a mágica! 🧙‍♂️
-- Você também pode descriptografar senhas geradas!
+## Meu gerador de senhas: 
+- https://github.com/tavaresProg/gerador-de-senhas-aleatorias
 
-##  Dica
+##  Observação:
 - Você pode alterar o método da criptografia entrando na classe *MetodoDeCodificacao* </br>
-e mudando o atributo *valor* (bem flexível!) 🤸
+e mudando o atributo *valor*
 
 
 ## Screenshots
